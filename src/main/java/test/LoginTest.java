@@ -7,7 +7,7 @@ public class LoginTest {
 		 System.out.println("LoginPage");
 	}
        public void hello() {
-	
+    	   System.out.println("LoginPage");
 	
     	   System.out.println("LoginPage");
       }
